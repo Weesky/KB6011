@@ -1,3 +1,5 @@
+If need to purchase the KB6011 Geiger counter, you can place an order on eBay or AliExpress.
+
 # User Manual for KB6011 Fourth-Generation Nuclear Radiation Detector, 2024 Edition
 ## Personal Dosimeter, Revised in 2024
 
