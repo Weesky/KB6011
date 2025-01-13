@@ -18,7 +18,8 @@
 - **Ambient Radiation Test:** Place the device 1 meter above the ground, avoiding beta radiation from the ground. Conduct testing in open spaces for 5 minutes and observe the average readings on the display.
 - **Radiation Source Search:** Switch the display to the histogram interface and scan the object near the back of the device. Observe the graphical display and listen for alarm sounds.
 - **DR/X-ray Leakage Test:** Observe the device's instant readings when exposed to radiation.
-![Uploading O1CN0198Uyig1uX7SFADeGy_!!87456046.jpg…]()
+![O1CN0198Uyig1uX7SFADeGy_!!87456046](https://github.com/user-attachments/assets/13eacb81-7469-4a6d-a871-e7ad4134d87d)
+
 
 
 ### Product Use:
@@ -43,6 +44,7 @@
 - Device — 1 piece
 - Type-C cable — 1 piece
 - User manual — 1 sheet
+![1](https://github.com/user-attachments/assets/26234838-d918-4eba-8481-c71377fe85a5)
 
 
 
