@@ -1,13 +1,75 @@
-# KB6011
-The KB6011 is a fourth-gen nuclear radiation detector for γ, X-ray, and β radiation. With a 5000 µSv/h range, high accuracy, real-time data, CPS/CPM stats, alarms, Type-C updates, and advanced settings, it’s ideal for home, workplace, and medical use. Compact (110g), portable, and highly versatile.
+# User Manual for KB6011 Fourth-Generation Nuclear Radiation Detector, 2024 Edition
+## Personal Dosimeter, Revised in 2024
+
+### Function Overview:
+- **Geiger counter click sound** (continuous clicking)
+- **CPS/CPM statistics and maximum value function**
+- **Threshold alarm signal statistics**
+- **Turbo Q3.5**
+- **Special alloy compensation coating**
+- **Type-C firmware updates**
+- **Adjustable advanced parameters**
 
 
-The KB6011 is a fourth-generation nuclear radiation detector and personal dosimeter, designed for professional and personal use. It supports γ, X-ray (>48KeV), and β radiation detection with a wide range of 5000 µSv/h and high accuracy (<+25+2/H(10)%). Features include Geiger counter sound, CPS/CPM statistics, threshold alarm notifications, Turbo Q3.5 technology, firmware updates via Type-C, and advanced customizable settings. 
+### Detection Methods:
+- **General Testing Methods:** Place the device against the testing object, wait for 60 seconds (4 cycles), and ensure the readings stabilize. For marble radiation testing, the recommended testing time is 5 minutes; check the average values afterward.
+- **Iodine-131 Test:** Place the device near the patient’s affected area. Wait about 1 minute and check the real-time value.
+- **Ambient Radiation Test:** Place the device 1 meter above the ground, avoiding beta radiation from the ground. Conduct testing in open spaces for 5 minutes and observe the average readings on the display.
+- **Radiation Source Search:** Switch the display to the histogram interface and scan the object near the back of the device. Observe the graphical display and listen for alarm sounds.
+- **DR/X-ray Leakage Test:** Observe the device's instant readings when exposed to radiation.
 
-Its applications span home radiation monitoring, occupational safety, material analysis (e.g., marble, ceramics), and detecting radiation leaks from medical (e.g., X-ray, CT) and industrial sources. The device is lightweight (110g), portable, and equipped with a 1200mAh battery lasting up to 60 hours. Radiation levels are displayed in real-time with resolution up to 0.01 µSv/h. Additional functions like Contact and Exp.Time offer detailed exposure analysis for medical professionals. 
 
-The KB6011 also supports various Geiger-Müller tube models (e.g., J321, M4011) and provides comprehensive data logging and calibration options for expert users. A versatile, compact, and powerful tool for radiation safety.  
+### Product Use:
+- **Personal Use:** For daily home protection and workplace personal safety. Radiation detection during home renovations, travel protection, ore detection, jade, negative ions in soil, marble, ceramic tiles, and mineral samples.
+- **Hobbyist Use:** Suitable for antique enthusiasts, metal detectors, negative ion powders, decorative materials, and ceramic tile detection.
+- **Professional Use:** Detect radiation leakage from X-ray machines, CT, DR, CBCT, and other equipment. Detect industrial and medical radiation sources. Includes detection for patients who have been injected or treated with certain radiation-emitting medical substances (e.g., PET, bone scans). Suitable for medical professionals for personal protection.
+
+### Product Parameters:
+- **Radiation types detected:** γ, X-rays (> 48KeV), solid β
+- **Range:** 5000 μSv/h
+- **Accuracy:** Error < +25+2/H(10) % (positive error)
+- **Sensitivity:** 130 CPM/μSv/h
+- **Resolution:** 0.01 μSv/h
+- **Testing speed:** 1 second (at 10 μSv/h)
+- **Background refresh time:** 15 seconds
+- **Size:** 117 x 49 x 19.5 mm
+- **Lithium battery:** 1200mAh, 3.7V
+- **Battery runtime:** 60 hours
+- **Weight:** 110g (flight approved)
+
+### Package Contents:
+- Device — 1 piece
+- Type-C cable — 1 piece
+- User manual — 1 sheet
 
 
 
-This is the official repository. If you have any questions about the KB6011, feel free to leave a message in the Issues section. I will assist you.
+### National Standard Radiation Thresholds:
+- **>0.5 μSv/h:** Exceeds average level, note the scenario
+
+#### Radiation Levels:
+- **Natural ambient radiation level:** 0.1~0.20 μSv/h (normal background level)
+- **Indoor radiation level:** 0.25 μSv/h (closed room radiation level)
+- **Marble and ceramic tile radiation level:** 0.30~0.40 μSv/h (possible levels from construction materials)
+- **National standard radiation alarm level:** 0.50 μSv/h (alarm level; protective measures may be required above this level)
+- **Airplane radiation level:** 2-3 μSv/h (radiation level during flights, reducing flight frequency recommended)
+- **Vintage camera lens radiation level:** <20 μSv/h (vintage lenses may contain trace radiation-emitting materials; handle with care)
+- **Small ore radiation level:** 40+ μSv/h (ore, avoid contact)
+- **Energy stone radiation level:** 100 μSv/h (some energy stones, maintain distance)
+- **Medical treatment radiation level:** 100+ μSv/h (follow medical advice for specific procedures)
+- **X-ray machine internal radiation level:** 2000+ μSv/h (instantaneous value, restricted area)
+- **CT scan radiation level:** 9999+ μSv/h (several dozen mSv; follow medical advice, only when necessary)
+
+### Warranty:
+18-month official warranty.
+
+### Additional Features:
+- Users can install and replace preferred Geiger-Müller counters, including J321, J305, M4011, SBM20, RD003, and others.
+- Press and hold both the up and down buttons simultaneously to enter the advanced settings page, where you can configure the calibration coefficient (Cf), sensor probe model, Geiger counter voltage, and more.
+
+### Description of Features:
+- When off, the LED blinks, indicating charging.
+- When off, the LED is steady, indicating a full charge.
+- The **Contact** and **Exp.Time** functions are exclusive to the KB6011® series. They can record the number and duration of exposures. For example, during a CT scan, the device records two continuous exposures, each lasting 6 seconds, for a total of 12 seconds. All data is logged, assisting doctors in evaluating radiation harm.
+
+
