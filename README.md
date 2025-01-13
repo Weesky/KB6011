@@ -76,4 +76,5 @@
 - When off, the LED is steady, indicating a full charge.
 - The **Contact** and **Exp.Time** functions are exclusive to the KB6011® series. They can record the number and duration of exposures. For example, during a CT scan, the device records two continuous exposures, each lasting 6 seconds, for a total of 12 seconds. All data is logged, assisting doctors in evaluating radiation harm.
 
+![kb6011-简明图解英文版](https://github.com/user-attachments/assets/38c635fa-e952-4ce4-ae4d-80b3b48f1daa)
 
