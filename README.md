@@ -7,3 +7,7 @@ The KB6011 is a fourth-generation nuclear radiation detector and personal dosime
 Its applications span home radiation monitoring, occupational safety, material analysis (e.g., marble, ceramics), and detecting radiation leaks from medical (e.g., X-ray, CT) and industrial sources. The device is lightweight (110g), portable, and equipped with a 1200mAh battery lasting up to 60 hours. Radiation levels are displayed in real-time with resolution up to 0.01 µSv/h. Additional functions like Contact and Exp.Time offer detailed exposure analysis for medical professionals. 
 
 The KB6011 also supports various Geiger-Müller tube models (e.g., J321, M4011) and provides comprehensive data logging and calibration options for expert users. A versatile, compact, and powerful tool for radiation safety.  
+
+
+
+This is the official repository. If you have any questions about the KB6011, feel free to leave a message in the Issues section. I will assist you.
