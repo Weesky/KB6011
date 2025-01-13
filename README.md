@@ -71,10 +71,53 @@
 - Users can install and replace preferred Geiger-Müller counters, including J321, J305, M4011, SBM20, RD003, and others.
 - Press and hold both the up and down buttons simultaneously to enter the advanced settings page, where you can configure the calibration coefficient (Cf), sensor probe model, Geiger counter voltage, and more.
 
-### Description of Features:
-- When off, the LED blinks, indicating charging.
-- When off, the LED is steady, indicating a full charge.
-- The **Contact** and **Exp.Time** functions are exclusive to the KB6011® series. They can record the number and duration of exposures. For example, during a CT scan, the device records two continuous exposures, each lasting 6 seconds, for a total of 12 seconds. All data is logged, assisting doctors in evaluating radiation harm.
-
+### Simplified Ul Operation Guide:
+---
 ![kb6011-简明图解英文版](https://github.com/user-attachments/assets/38c635fa-e952-4ce4-ae4d-80b3b48f1daa)
+
+The **Geiger Counter KB6011** is equipped with advanced features for radiation detection and analysis. Designed for ease of use and comprehensive functionality, this device includes self-test capabilities, flexible voltage settings, statistical functions, and real-time monitoring options. Below is a detailed list of its features:
+
+---
+
+### Optimized List of Functions:
+
+1. **Self-Test Page**
+   - A 10-minute self-test ensures the device is operating correctly. 
+   - Displays firmware version and PCB (Printed Circuit Board) model.
+   - Accessible by:
+     - Starting the device for the first time.
+     - Pressing the "ClearData" button 30 times continuously and restarting.
+
+2. **Real-Time CPM Function (Counts Per Minute)**
+   - Real-time display of radiation particles per minute for accurate monitoring.
+   - Includes a 3-minute moving average for better trend analysis.
+   - Features a 15-second timer for quick measurements.
+
+3. **Statistical Functions**
+   - **Contact**: Counts the number of radiation exposure events (alarm triggers).
+   - **Exp.Time**: Tracks the total duration of radiation exposure.
+
+4. **Inst.val Instant Retention**
+   - Retains peak radiation moments with a 1-second statistical interval.
+   - Bar chart visualization makes data analysis easier.
+
+5. **Particle Sound On/Off**
+   - Customizable sound settings:
+     - **C.O.L Mode**: Disable alarm sound while retaining particle detection sound.
+     - **A.O.I Mode**: Disable particle detection sound while retaining alarm sound.
+   - Buzzer alarm activates when radiation levels exceed >1 µSv/h.
+
+6. **Hidden Settings Access**
+   - Access advanced configuration options by pressing and holding the ↑ and ↓ buttons simultaneously.
+
+7. **500V Voltage Support**
+   - Supports multiple tube voltage levels: 350V, 400V, 450V, and 500V.
+   - Adjustable voltage to prevent brush discharge or to increase sensitivity by up to 10%.
+   - Default voltage is 450V, configurable to meet specific conditions.
+
+8. **Upcoming Tube Compatibility**
+   - Planned future support for **LND7317 tubes**, along with other additional tube models.
+
+---
+
 
