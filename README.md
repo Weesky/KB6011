@@ -10,7 +10,7 @@
 - **Type-C firmware updates**
 - **Adjustable advanced parameters**
 
-![391f9ae88ac3d1f4](https://github.com/user-attachments/assets/ff452383-d606-4e9e-aa6c-333a2fe4adde)
+![391f9ae88ac3d1f4](https://github.com/user-attachments/assets/ff452383-d606-4e9e-aa6c-333a2fe4adde) 
 
 ### Detection Methods:
 - **General Testing Methods:** Place the device against the testing object, wait for 60 seconds (4 cycles), and ensure the readings stabilize. For marble radiation testing, the recommended testing time is 5 minutes; check the average values afterward.
