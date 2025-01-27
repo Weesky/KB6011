@@ -35,6 +35,7 @@
 
 For specific usage methods, please refer to the detailed instruction manual. We will continue to update multi-language documents.
 https://github.com/Weesky/KB6011/wiki
+For further inquiries or to place an order, visit [eBay](https://www.ebay.com/itm/226538257863) or [AliExpress](https://www.aliexpress.com//item/2251832871987194.html).
 
 ---
 
@@ -75,6 +76,7 @@ https://github.com/Weesky/KB6011/wiki
 
 具体使用方法，可以参考详细说明文档。 我们将持续更新多语言文档。
 https://github.com/Weesky/KB6011/wiki
+如需要从电商处获取，可以点击 [eBay](https://www.ebay.com/itm/226538257863) or [AliExpress](https://www.aliexpress.com//item/2251832871987194.html).
 
 ---
 
@@ -115,4 +117,4 @@ https://github.com/Weesky/KB6011/wiki
 
 За конкретными методами использования обратитесь к подробной инструкции. Мы продолжим обновлять документацию на нескольких языках. https://github.com/Weesky/KB6011/wiki
 
-
+Для получения дополнительной информации или оформления заказа посетите [eBay](https://www.ebay.com/itm/226538257863) or [AliExpress](https://www.aliexpress.com//item/2251832871987194.html).
