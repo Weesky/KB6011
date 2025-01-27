@@ -1,3 +1,40 @@
+### KB6011 Parameters and Usage Summary
+
+**Parameters**:
+
+- **Detection Types**: Gamma (γ) rays, X-rays (>48 KeV), and high-energy beta particles.
+- **Measurement Range**: 0–5000 μSv/h.
+- **Resolution**: 0.01 μSv/h.
+- **Accuracy**: ±25+2/H(10) %.
+- **Response Time**: 1 second (at 10 μSv/h).
+- **Battery Life**: Built-in 1200 mAh battery, providing 60-120 hours of continuous operation.
+- **Device Dimensions**: 117 x 49 x 19.5 mm, weight 110 g.
+
+**Usage Methods**:
+
+1. **Routine Testing**: Place the device close to the object being tested, maintain for 30-60 seconds, and read the stable data. If encountering radiation >3uSv/h, the device will typically respond with an alarm within 5 seconds and quickly refresh the reading. For radiation >10uSv/h, the alarm will sound within 1 second and the reading will refresh quickly.
+2. **Background Radiation Detection**: Place the device 1 meter above the ground, avoiding beta ray interference, and record the average value within 3 minutes.
+3. **Radiation Source Localization**: Use the device's bar chart interface, move the device around the suspicious object, and determine the radiation source location through the graph or alarm sound.
+4. **Instantaneous Value Recording Function**: The device has an inst.val instantaneous value recording function that can capture intense pulse radiation, record and hold for 120 seconds, and observe the radiation peak.
+
+**Core Functions**:
+
+- **TurboQ3.5 Acceleration**: A special algorithm that accelerates the radiation response refresh speed to achieve stable test results at the fastest speed.
+- **High Sensitivity**: A measurement range of up to 5000 μSv/h and high sensitivity of 130 CPM/μSv/h.
+- **Real-time Monitoring and Alarm**: Supports multi-level threshold settings, and automatically alarms when exceeding the safe range.
+- **Statistics and Analysis**: CPS data curve chart, convenient for users to analyze radiation data.
+- **Firmware Upgrade**: Supports firmware updates through the Type-C interface to ensure the device always maintains optimal performance.
+- **Replaceable Geiger Tube**: Supports Geiger tubes such as SMB20, J321, J305, RD003, and LND7317.
+
+**Application Scenarios**:
+
+- **Environmental Radiation Monitoring**: Detect natural radiation background values, test the radioactivity levels of building materials (such as marble, tiles) or industrial items.
+- **Medical Radiation Monitoring**: Detect the radiation dose of medical equipment such as X-ray machines and CT scanners, helping users assess radiation exposure risks.
+- **Ore and Artifact Detection**: Analyze the radiation levels of ore samples or antiques.
+- **Personal Protection**: Suitable for daily protection of medical workers or personnel exposed to radioactive substances.
+
+For specific usage methods, please refer to the detailed instruction manual. We will continue to update multi-language documents. https://github.com/Weesky/KB6011/wiki
+
 ### KB6011参数和使用方法概要
 
 **参数**：
